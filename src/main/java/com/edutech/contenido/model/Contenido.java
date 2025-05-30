@@ -16,5 +16,5 @@ public class Contenido {
     private String tipo; // video, pdf, texto, etc.
     private String url;
 
-    // Opcional: puedes agregar fecha de creación, autor, etc.
+    
 }
